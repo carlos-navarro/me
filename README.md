@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+### carlos-navarro
 
-You can use the [editor on GitHub](https://github.com/carlos-navarro/carlos-navarro/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, this is Carlos Navarro.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-### Markdown
+<!-- display the social media buttons in your README -->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][6.1]][6]
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<!-- links to social media icons -->
+<!-- no need to change these -->
 
-- Bulleted
-- List
+<!-- icons with padding -->
 
-1. Numbered
-2. List
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
+[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
+[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
-**Bold** and _Italic_ and `Code` text
+<!-- icons without padding -->
 
-[Link](url) and ![Image](src)
-```
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
+[3.2]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
+[4.2]: http://i.imgur.com/jDRp47c.png (tumblr icon without padding)
+[5.2]: http://i.imgur.com/Vvy3Kru.png (dribbble icon without padding)
+[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carlos-navarro/carlos-navarro/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[1]: http://www.twitter.com/kahlitoh
+[2]: http://www.facebook.com/kahlitoh
+[3]: https://plus.google.com/not-available
+[4]: http://kahlitoh.tumblr.com
+[5]: http://dribbble.com/kahlitoh
+[6]: https://github.com/carlos-navarro
+[7]: https://github.com/kahlitoh
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+![carlos-navarro](./avatars/re-invent.jpeg)
