@@ -2,7 +2,11 @@
 
 [![Certified ScrumMaster® (CSM®)][1.1]][1]
 [![Certified Management 3.0 Foundation Workshop Attendee][1.2]][2]
+
+
 [![Microsoft Certified: Azure Fundamentals][2.1]][3]
+
+
 [![AWS Certified: Cloud Practitioner][3.1]][4]
 
 [1]: http://bcert.me/sxendphet
