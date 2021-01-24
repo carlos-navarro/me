@@ -10,7 +10,7 @@ Architect who code / Forever novice software craftsman / Lifelong learner / Stan
 
 [Ok, great. That's a good place to stop.](https://youtube.com/c/MichaelPennMath)
 
-[And that's what I have for you today](https://youtube.com/c/lockpickinglawyer) [cheap-o](https://youtube.com/c/DarrenWalkerMultimeterReviews) seekers!
+[And that's what I have for you today](https://youtube.com/c/lockpickinglawyer), [cheap-o](https://youtube.com/c/DarrenWalkerMultimeterReviews) seekers!
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
