@@ -4,7 +4,7 @@ Hey [Vsauce](https://youtube.com/c/vsauce1)! Carlos here.
 
 ![carlos-navarro](./avatars/re-invent.jpeg)
 
-Architect who code / Forever novice software craftsman / Lifelong learner / Standards champion / AXA blue redhatter / OpenShift Global Product Owner / Slash man
+Architect who code / Forever novice software craftsman / Lifelong learner / Standards champion / AXA blue RedHatter / OpenShift Global Product Owner / Slash man
 
 [Mathologeraholic](https://youtube.com/c/Mathologer) & [Numberphilic](https://youtube.com/user/numberphile) 
 
