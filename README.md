@@ -1,6 +1,6 @@
 ### carlos-navarro
 
-Hey [Vsauce](https://youtube.com/c/vsauce1), Carlos here.
+Hey [Vsauce](https://youtube.com/c/vsauce1)! Carlos here.
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
