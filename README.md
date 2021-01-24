@@ -8,6 +8,10 @@ Architect who code / Forever novice software craftsman / Lifelong learner / Stan
 
 [Mathologeraholic](https://youtube.com/c/Mathologer) & [Numberphilic](https://youtube.com/user/numberphile) 
 
+[Ok, great. That's a good place to stop.](https://youtube.com/c/MichaelPennMath)
+
+[And that's what I have for you today](https://youtube.com/c/lockpickinglawyer) [cheap-o](https://youtube.com/c/DarrenWalkerMultimeterReviews) seekers!
+
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
