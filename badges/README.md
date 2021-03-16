@@ -15,6 +15,7 @@
 [![AWS Certified: Security Specialty][3.2]][0]
 [![AWS Certified: Solutions Architect Asociate][3.3]][0]
 
+[0]: .
 [1]: http://bcert.me/sxendphet
 [2]: ./cm30fwa.pdf
 [3]: https://www.youracclaim.com/badges/50625fa1-dafa-40ee-999f-fa5012c9d2d0
