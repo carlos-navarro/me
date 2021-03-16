@@ -2,18 +2,18 @@
 
 [![Certified ScrumMaster® (CSM®)][1.1]][1]
 [![Certified Management 3.0 Foundation Workshop Attendee][1.2]][2]
-[![Certified SAFe® Scrum Master][1.3]][]
-[![Certified SAFe® Architect][1.4]][]
+[![Certified SAFe® Scrum Master][1.3]][0]
+[![Certified SAFe® Architect][1.4]][0]
 
 [![Microsoft Certified: Azure Fundamentals][2.1]][3]
 [![Microsoft Certified: Azure Data Fundamentals][2.2]][5]
-[![Microsoft Certified: Azure AI Fundamentals][2.3]][]
-[![Microsoft Certified: Azure Security Engineer Asociate][2.4]][]
-[![Microsoft Certified: Azure Solutions Architect Expert][2.5]][]
+[![Microsoft Certified: Azure AI Fundamentals][2.3]][0]
+[![Microsoft Certified: Azure Security Engineer Asociate][2.4]][0]
+[![Microsoft Certified: Azure Solutions Architect Expert][2.5]][0]
 
 [![AWS Certified: Cloud Practitioner][3.1]][4]
-[![AWS Certified: Security Specialty][3.2]][]
-[![AWS Certified: Solutions Architect Asociate][3.3]][]
+[![AWS Certified: Security Specialty][3.2]][0]
+[![AWS Certified: Solutions Architect Asociate][3.3]][0]
 
 [1]: http://bcert.me/sxendphet
 [2]: ./cm30fwa.pdf
