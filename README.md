@@ -28,7 +28,7 @@ Architect who code / Forever novice software craftsman / Lifelong learner / Stan
 
 <!-- icons with padding -->
 
-[0.1]: ./badges/badge.png
+[0.1]: ./badges/b.png
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
@@ -38,7 +38,7 @@ Architect who code / Forever novice software craftsman / Lifelong learner / Stan
 
 <!-- icons without padding -->
 
-[0.2]: ./badges/badge.png
+[0.2]: ./badges/b.png
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 [3.2]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
