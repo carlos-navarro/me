@@ -16,12 +16,11 @@ Architect who code / Forever novice software craftsman / Lifelong learner / Stan
 
 <!-- display the social media buttons in your README -->
 
-[![badges][0.1]][0]
 [![kahlitoh][1.1]][1]
 [![kahlitoh][2.1]][2]
 [![carlos-navarro][6.1]][6]
 [![carlos-navarro][6.1]][6]
-
+[![badges][0.1]][0]
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
