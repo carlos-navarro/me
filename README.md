@@ -20,6 +20,8 @@ Architect who code / Forever novice software craftsman / Lifelong learner / Stan
 [![kahlitoh][2.1]][2]
 [![carlos-navarro][6.1]][6]
 [![carlos-navarro][6.1]][6]
+
+
 [![badges][0.1]][0]
 
 <!-- links to social media icons -->
