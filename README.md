@@ -30,8 +30,8 @@ Architect who code / Forever novice software craftsman / Lifelong learner / Stan
 <!-- icons with padding -->
 
 [0.1]: ./badges/bg.png
-[0.2]: ./badges/in.png
-[0.3]: ./badges/insta.png
+[0.2]: ./badges/insta.png
+[0.3]: ./badges/in.png
 [0.4]: ./badges/teams.png
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
@@ -61,8 +61,8 @@ Architect who code / Forever novice software craftsman / Lifelong learner / Stan
 [5]: http://dribbble.com/kahlitoh
 [6]: https://github.com/carlos-navarro
 [7]: https://github.com/kahlitoh
-[8]: https://www.linkedin.com/in/carlos-navarro-segarra-48734a1/
-[9]: https://www.instagram.com/kahlitoh/
+[8]: https://www.instagram.com/kahlitoh/
+[9]: https://www.linkedin.com/in/carlos-navarro-segarra-48734a1/
 [10]: https://teams.microsoft.com/l/chat/0/0?users=carlos.navarro@axa.com
 
 
