@@ -18,8 +18,10 @@ Architect who code / Forever novice software craftsman / Lifelong learner / Stan
 
 [![kahlitoh][1.1]][1]
 [![kahlitoh][2.1]][2]
+[![carlos-navarro][0.2]][8]
+[![carlos-navarro][0.3]][9]
 [![carlos-navarro][6.1]][6]
-
+[![carlos-navarro][0.4]][10]
 [![badges][0.1]][0]
 
 <!-- links to social media icons -->
@@ -27,7 +29,10 @@ Architect who code / Forever novice software craftsman / Lifelong learner / Stan
 
 <!-- icons with padding -->
 
-[0.1]: ./badges/b.png
+[0.1]: ./badges/bg.png
+[0.2]: ./badges/in.png
+[0.3]: ./badges/insta.png
+[0.4]: ./badges/teams.png
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
@@ -37,7 +42,6 @@ Architect who code / Forever novice software craftsman / Lifelong learner / Stan
 
 <!-- icons without padding -->
 
-[0.2]: ./badges/b.png
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 [3.2]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
@@ -57,6 +61,9 @@ Architect who code / Forever novice software craftsman / Lifelong learner / Stan
 [5]: http://dribbble.com/kahlitoh
 [6]: https://github.com/carlos-navarro
 [7]: https://github.com/kahlitoh
+[8]: https://www.linkedin.com/in/carlos-navarro-segarra-48734a1/
+[9]: https://www.instagram.com/kahlitoh/
+[10]: https://teams.microsoft.com/l/chat/0/0?users=carlos.navarro@axa.com
 
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
