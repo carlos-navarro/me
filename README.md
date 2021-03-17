@@ -1,5 +1,13 @@
 ### carlos-navarro
 
+[![kahlitoh][1.1]][1]
+[![kahlitoh][2.1]][2]
+[![carlos-navarro][0.2]][8]
+[![carlos-navarro][0.3]][9]
+[![carlos-navarro][6.1]][6]
+[![carlos-navarro][0.4]][10]
+[![badges][0.1]][0]
+
 Hey [Vsauce](https://youtube.com/c/vsauce1)! Carlos here.
 
 ![carlos-navarro](./avatars/re-invent.jpeg)
@@ -14,21 +22,7 @@ Architect who code / Forever novice software craftsman / Lifelong learner / Stan
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-<!-- display the social media buttons in your README -->
-
-[![kahlitoh][1.1]][1]
-[![kahlitoh][2.1]][2]
-[![carlos-navarro][0.2]][8]
-[![carlos-navarro][0.3]][9]
-[![carlos-navarro][6.1]][6]
-[![carlos-navarro][0.4]][10]
-[![badges][0.1]][0]
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
 <!-- icons with padding -->
-
 [0.1]: ./badges/bg.png
 [0.2]: ./badges/insta.png
 [0.3]: ./badges/in.png
@@ -41,7 +35,6 @@ Architect who code / Forever novice software craftsman / Lifelong learner / Stan
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
-
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 [3.2]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
@@ -51,8 +44,6 @@ Architect who code / Forever novice software craftsman / Lifelong learner / Stan
 
 
 <!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
 [0]: ./badges/
 [1]: http://www.twitter.com/kahlitoh
 [2]: http://www.facebook.com/kahlitoh
@@ -65,6 +56,4 @@ Architect who code / Forever novice software craftsman / Lifelong learner / Stan
 [9]: https://www.linkedin.com/in/carlos-navarro-segarra-48734a1/
 [10]: https://teams.microsoft.com/l/chat/0/0?users=carlos.navarro@axa.com
 
-
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
