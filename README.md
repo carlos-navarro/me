@@ -10,7 +10,7 @@
 
 Hey [Vsauce](https://youtube.com/c/vsauce1)! Carlos here.
 
-![carlos-navarro](./avatars/re-invent.jpeg)
+[![carlos-navarro](./avatars/re-invent-timg.png)](./avatars/re-invent.jpeg)
 
 Architect who code / Forever novice software craftsman / Lifelong learner / Standards champion / AXA blue RedHatter / OpenShift Global Product Owner / Slash man
 
