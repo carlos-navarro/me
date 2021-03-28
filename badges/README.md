@@ -9,8 +9,8 @@
 
 [![Microsoft Certified: Azure Fundamentals][2.1]][3]
 [![Microsoft Certified: Azure Data Fundamentals][2.2]][5]
+[![Microsoft Certified: Azure AI Fundamentals][2.3]][6]
 <!--
-[![Microsoft Certified: Azure AI Fundamentals][2.3]][0]
 [![Microsoft Certified: Azure Security Engineer Asociate][2.4]][0]
 [![Microsoft Certified: Azure Solutions Architect Expert][2.5]][0]
 -->
@@ -32,6 +32,7 @@
 [3]: https://www.youracclaim.com/badges/50625fa1-dafa-40ee-999f-fa5012c9d2d0
 [4]: https://www.youracclaim.com/badges/9bc82cfc-2a9f-43f3-8cd7-7b8496f1106f
 [5]: https://www.youracclaim.com/badges/684d1e55-5cb7-4335-b9f7-2a0893dd4a2e
+[6]: https://www.youracclaim.com/badges/2b946354-27c2-4285-897a-e0d3173ddab2
 
 [1.1]: sacsm.png
 [1.2]: cm30fwa.png
