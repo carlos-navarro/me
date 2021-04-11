@@ -21,7 +21,7 @@
 [![AWS Certified: Solutions Architect Asociate][3.3]][0]
 -->
 
-[![QwikLabs: Google Cloud Essentials][4.1]][4]
+[![QwikLabs: Google Cloud Essentials][4.1]][7]
 
 <!--
 [![Red Hat Certified Professional][5.1]][0]
