@@ -21,9 +21,11 @@
 [![AWS Certified: Solutions Architect Asociate][3.3]][0]
 -->
 
+[![QwikLabs: Google Cloud Essentials][4.1]][4]
+
 <!--
-[![Red Hat Certified Professional][4.1]][0]
-[![Red Hat Certified Engineer][4.2]][0]
+[![Red Hat Certified Professional][5.1]][0]
+[![Red Hat Certified Engineer][5.2]][0]
 -->
 
 [0]: .
@@ -33,6 +35,7 @@
 [4]: https://www.youracclaim.com/badges/9bc82cfc-2a9f-43f3-8cd7-7b8496f1106f
 [5]: https://www.youracclaim.com/badges/684d1e55-5cb7-4335-b9f7-2a0893dd4a2e
 [6]: https://www.youracclaim.com/badges/2b946354-27c2-4285-897a-e0d3173ddab2
+[7]: https://www.qwiklabs.com/public_profiles/799bf8c8-0895-4121-a4b1-1441d22577f8
 
 [1.1]: sacsm.png
 [1.2]: cm30fwa.png
@@ -46,6 +49,7 @@
 [3.1]: clf-c01.png
 [3.2]: scs-c01.png
 [3.3]: saa-c02.png
-[4.1]: rhcp.png
-[4.2]: rhce.png
+[4.1]: gce.jpeg
+[5.1]: rhcp.png
+[5.2]: rhce.png
 
