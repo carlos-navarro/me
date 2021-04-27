@@ -23,6 +23,7 @@
 -->
 
 [![QwikLabs: Google Cloud Essentials][4.1]][7]
+[![QwikLabs: Google Cloud Essentials][4.2]][7]
 <!--
 [![GCP Certified: Cloud Engineer Asociate][4.2]][0]
 [![GCP Certified: Cloud Architect Professional][4.3]][0]
@@ -56,6 +57,7 @@
 [3.2]: saa-c02.png
 [3.3]: scs-c01.png
 [4.1]: gce.jpeg
+[4.2]: gcei.png
 [5.1]: rhcp.png
 [5.2]: rhce.png
 
