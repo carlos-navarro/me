@@ -24,10 +24,12 @@
 
 [![QwikLabs: Google Cloud Essentials][4.1]][7]
 [![QwikLabs: Google Cloud Essentials][4.2]][7]
+[![QwikLabs: Google Cloud Essentials][4.3]][7]
+[![QwikLabs: Google Cloud Essentials][4.4]][7]
 <!--
-[![GCP Certified: Cloud Engineer Asociate][4.2]][0]
-[![GCP Certified: Cloud Architect Professional][4.3]][0]
-[![GCP Certified: Cloud Security Engineer Professional][4.4]][0]
+[![GCP Certified: Cloud Engineer Asociate][4.5]][0]
+[![GCP Certified: Cloud Architect Professional][4.6]][0]
+[![GCP Certified: Cloud Security Engineer Professional][4.7]][0]
 -->
 
 <!--
