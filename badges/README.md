@@ -17,11 +17,17 @@
 
 [![AWS Certified: Cloud Practitioner][3.1]][4]
 <!--
-[![AWS Certified: Security Specialty][3.2]][0]
-[![AWS Certified: Solutions Architect Asociate][3.3]][0]
+[![AWS Certified: Solutions Architect Asociate][3.2][0]
+[![AWS Certified: Security Specialty][3.3]][0]
+[![AWS Certified: Solutions Architect Professional][3.4]][0]
 -->
 
 [![QwikLabs: Google Cloud Essentials][4.1]][7]
+<!--
+[![GCP Certified: Cloud Engineer Asociate][4.2]][0]
+[![GCP Certified: Cloud Architect Professional][4.3]][0]
+[![GCP Certified: Cloud Security Engineer Professional][4.4]][0]
+-->
 
 <!--
 [![Red Hat Certified Professional][5.1]][0]
@@ -47,8 +53,8 @@
 [2.4]: az-500.png
 [2.5]: az-30x.png
 [3.1]: clf-c01.png
-[3.2]: scs-c01.png
-[3.3]: saa-c02.png
+[3.2]: saa-c02.png
+[3.3]: scs-c01.png
 [4.1]: gce.jpeg
 [5.1]: rhcp.png
 [5.2]: rhce.png
